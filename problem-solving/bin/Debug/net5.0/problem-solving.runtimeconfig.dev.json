@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/taditdash/.dotnet/store/|arch|/|tfm|",
+      "/Users/taditdash/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+/Users/taditdash/code/dotnet-practice/oop/bin/Debug/net5.0/oop.deps.json
+/Users/taditdash/code/dotnet-practice/oop/bin/Debug/net5.0/oop.runtimeconfig.json
+/Users/taditdash/code/dotnet-practice/oop/bin/Debug/net5.0/oop.runtimeconfig.dev.json
+/Users/taditdash/code/dotnet-practice/oop/bin/Debug/net5.0/oop.dll
+/Users/taditdash/code/dotnet-practice/oop/bin/Debug/net5.0/ref/oop.dll
+/Users/taditdash/code/dotnet-practice/oop/bin/Debug/net5.0/oop.pdb
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.csproj.AssemblyReference.cache
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.AssemblyInfoInputs.cache
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.AssemblyInfo.cs
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.csproj.CoreCompileInputs.cache
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.dll
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/ref/oop.dll
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.pdb
+/Users/taditdash/code/dotnet-practice/oop/obj/Debug/net5.0/oop.genruntimeconfig.cache

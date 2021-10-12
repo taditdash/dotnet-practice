@@ -1,0 +1,15 @@
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.csproj.AssemblyReference.cache
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.AssemblyInfoInputs.cache
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.AssemblyInfo.cs
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.csproj.CoreCompileInputs.cache
+/Users/taditdash/code/dotnet-practice/problem-solving/bin/Debug/net5.0/problem-solving.deps.json
+/Users/taditdash/code/dotnet-practice/problem-solving/bin/Debug/net5.0/problem-solving.runtimeconfig.json
+/Users/taditdash/code/dotnet-practice/problem-solving/bin/Debug/net5.0/problem-solving.runtimeconfig.dev.json
+/Users/taditdash/code/dotnet-practice/problem-solving/bin/Debug/net5.0/problem-solving.dll
+/Users/taditdash/code/dotnet-practice/problem-solving/bin/Debug/net5.0/ref/problem-solving.dll
+/Users/taditdash/code/dotnet-practice/problem-solving/bin/Debug/net5.0/problem-solving.pdb
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.dll
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/ref/problem-solving.dll
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.pdb
+/Users/taditdash/code/dotnet-practice/problem-solving/obj/Debug/net5.0/problem-solving.genruntimeconfig.cache
