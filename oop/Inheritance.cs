@@ -16,8 +16,16 @@ namespace oop
       Console.WriteLine("BaseClass: MethodWithSameNameInBaseAndDerivedClass called");
     }
 
-    public void MethodThatCanBeOverriden() {
+    public virtual void MethodThatCanBeOverriden() {
       Console.WriteLine("BaseClass: MethodThatCanBeOverriden called");
+    }
+
+    public void MethodHidingWithNewKeyword() {
+      Console.WriteLine("BaseClass: MethodHidingWithNewKeyword called");
+    }
+
+    public virtual void VirtualMethodHidingWithNewKeyword() {
+      Console.WriteLine("BaseClass: VirtualMethodHidingWithNewKeyword called");
     }
   }
 
@@ -37,6 +45,33 @@ namespace oop
 
     public override void MethodThatCanBeOverriden() {
       Console.WriteLine("DerivedClass: MethodThatCanBeOverriden called");
+    }
+
+    public new void MethodHidingWithNewKeyword() {
+      Console.WriteLine("DerivedClass: MethodHidingWithNewKeyword called");
+    }
+
+    public override void VirtualMethodHidingWithNewKeyword() {
+      Console.WriteLine("DerivedClass: VirtualMethodHidingWithNewKeyword called");
+    }
+  }
+
+  class OneMoreDerivedClass: DerivedClass {
+    public OneMoreDerivedClass()
+    {
+      Console.WriteLine("OneMoreDerivedClass Constructor");
+    }
+
+    public override void MethodThatCanBeOverriden() {
+      Console.WriteLine("OneMoreDerivedClass: MethodThatCanBeOverriden called");
+    }
+
+    public new void MethodHidingWithNewKeyword() {
+      Console.WriteLine("OneMoreDerivedClass: MethodHidingWithNewKeyword called");
+    }
+
+    public new void VirtualMethodHidingWithNewKeyword() {
+      Console.WriteLine("OneMoreDerivedClass: VirtualMethodHidingWithNewKeyword called");
     }
   }
 
